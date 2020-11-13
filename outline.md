@@ -1,7 +1,7 @@
 ## 1. Project Title:
 Exploring correlation between COVID morbidity in the counties of New York state and distances of the counties  from New York city.
 
-## Objectives
+## 2.Objectives
 
 ### 2.1 General objective: 
 Checking and visualizing correlations among specific features from two data sets after conducting  ETL process using python programming language
