@@ -1,4 +1,4 @@
-## Project Title:
+## 1. Project Title:
 Exploring correlation between COVID morbidity in the counties of New York state and distances of the counties  from New York city.
 
 ## Objectives
